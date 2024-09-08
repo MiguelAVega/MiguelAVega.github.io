@@ -94,7 +94,7 @@
 }
 
 .popup.active .overlay{
-    display: block;
+    display:block;
 }
 
 .popup.active .cotent{
